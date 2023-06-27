@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Belajar MVVM Hilt</string>
+    <string name="data_tidak_ada">Data is empty</string>
+    <string name="instruction">Instruction</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="drink_recommendation">You can make %s for the drink</string>
+</resources>
